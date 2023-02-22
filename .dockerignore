@@ -1,9 +1,11 @@
-**/.dockerignore
-**/.env
-**/.git
-**/.gitignore 
-**/docker-compose*
-**/Dockerfile* 
+.dockerignore
+.git
+.gitignore 
+.vscode 
+node_modules
+npm-debug.log
+Dockerfile 
+package-lock.json
 LICENSE
 README.md
 docker-compose.yml
